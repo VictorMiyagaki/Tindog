@@ -117,3 +117,14 @@ p {
 .pricing-column {
     padding: 3% 2%;
 }
+
+#cta, #footer {
+    background-color:#ff4c68;
+    color:white;
+    text-align: center;
+}
+
+#footer p {
+    margin: 0;
+    color:white;
+}
